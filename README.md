@@ -1,1 +1,5 @@
 # Morpion_CNN_Derun
+
+如果想重新训练CNN，只需要运行train_alpha_zero.py文件，但是运行时间比较长
+
+clone之后可以直接运行play_humain_vs_alphazero.py文件进行游戏对战
